@@ -2,7 +2,7 @@
 
 <p align="center">
  .fstPage  {
-    background-image:url("https://lawrencecheng123.github.io/Seattle.jpg");
+    background-image:url("https://i.pinimg.com/originals/73/4f/b6/734fb6ed44aa280fe7546f7035363faf.gif");
     /*background-color: lightgray;*/
     height: 700px;
     width:100%;
