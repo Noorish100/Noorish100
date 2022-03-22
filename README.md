@@ -1,13 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
- .fstPage  {
-    background-image:url("https://i.pinimg.com/originals/73/4f/b6/734fb6ed44aa280fe7546f7035363faf.gif");
-    /*background-color: lightgray;*/
-    height: 700px;
-    width:100%;
-    background-size:cover;
-}
+![alt text](http://url/to/img.png)
   <img width="500" height="200" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif">
 </p align="center">
 
