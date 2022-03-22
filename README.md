@@ -1,6 +1,13 @@
 ### Hi there 👋
 
 <p align="center">
+ .fstPage  {
+    background-image:url("https://lawrencecheng123.github.io/Seattle.jpg");
+    /*background-color: lightgray;*/
+    height: 700px;
+    width:100%;
+    background-size:cover;
+}
   <img width="500" height="200" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif">
 </p align="center">
 
