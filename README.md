@@ -1,5 +1,5 @@
 ### Hi there 👋
-![alt text](http://url/to/https://i.pinimg.com/originals/73/4f/b6/734fb6ed44aa280fe7546f7035363faf.gif)
+![alt text](http://url/to/https://i.pinimg.com/originals/73/4f/b6/734fb6ed44aa280fe7546f7035363faf.gif.png)
 <p align="center">
 
   <img width="500" height="200" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif">
