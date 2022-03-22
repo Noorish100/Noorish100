@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <p align="center">
-  <img width="300" height="200" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif">
-</p>
+  <img width="800" height="200" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif">
+</p align="center">
 
  [![Linkedin Badge](https://img.shields.io/badge/-noorish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/noorish-nauman//)](https://www.linkedin.com/in/noorish-nauman/)  [![Gmail Badge](https://img.shields.io/badge/-mdnoorishnauman@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdnoorishnauman@gmail.com)](mailto:mdnoorishnauman@gmail.com)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
