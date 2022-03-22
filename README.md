@@ -1,7 +1,7 @@
 ### Hi there 👋
-
-<p align="center">
 ![alt text](http://url/to/img.png)
+<p align="center">
+
   <img width="500" height="200" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif">
 </p align="center">
 
