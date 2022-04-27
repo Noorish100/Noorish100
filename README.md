@@ -10,8 +10,8 @@
 ### <i>About</i>
 
 -  **Learning :** Full-Stack Development :
--  **Languages :**  C++, JavaScript💻
--  **Hobbies :** coding📕 & planting 🪴:
+-  **Languages :**  C++, JavaScript,Java💻
+-  **Hobbies :** coding📕 | planting 🪴 |Physical fitness👊
 -  **Fact :** It's never late to get started 🎯:heart:
 
 
