@@ -5,7 +5,7 @@
   <img width="500" height="200" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif">
 </p align="center">
 
- [![Linkedin Badge](https://img.shields.io/badge/-noorish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/noorish-nauman//)](https://www.linkedin.com/in/noorish-nauman/)  [![Gmail Badge](https://img.shields.io/badge/-mdnoorishnauman@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdnoorishnauman@gmail.com)](mailto:mdnoorishnauman@gmail.com)
+
  
  <h1 align="center">Hi 👋, I'm Md Noorish Nauman</h1>
 <h3 align="center">A Passionate Full-Stack Web Developer from India</h3>
@@ -28,18 +28,14 @@
 - ⚡ Fun fact **I watch the funny videos often.**
 
 -  **Hobbies :** coding📕 | planting 🪴 |Physical fitness👊
--  
+
 -  **Fact :** It's never late to get started 🎯:heart:
 
 </br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/linkedin.com/in/noorish-nauman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/danish-ahmed-9b12b7158" height="30" width="40" /></a>
-
-
-<a href="https://instagram.com/https://www.instagram.com/Noorish_the_best/" target="blank"><img align="center" src="https://raw.githubusercontent.com/instagram.svg" alt="https://www.instagram.com/noorish_the_best/" height="30" width="40" /></a>
-
+ [![Linkedin Badge](https://img.shields.io/badge/-noorish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/noorish-nauman//)](https://www.linkedin.com/in/noorish-nauman/)  [![Gmail Badge](https://img.shields.io/badge/-mdnoorishnauman@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdnoorishnauman@gmail.com)](mailto:mdnoorishnauman@gmail.com)
 <br>
 
 
