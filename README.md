@@ -27,9 +27,9 @@
 
 - ⚡ Fun fact **I watch the funny videos often.**
 
--  **Hobbies :** coding📕 | planting 🪴 |Physical fitness👊
+- 🎯 Hobbies :**coding📕 | planting 🪴 | Physical fitness👊**
 
--  **Fact :** It's never late to get started 🎯:heart:
+- ⚡ Fact :**It's never late to get started 🫀:**
 
 </br>
 <h3 align="left">Connect with me:</h3>
