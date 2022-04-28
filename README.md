@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <!-- ![alt text](http://url/to/https://i.pinimg.com/originals/73/4f/b6/734fb6ed44aa280fe7546f7035363faf.gif.png) -->
 <p align="center">
 
