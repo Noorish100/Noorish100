@@ -50,8 +50,8 @@
   
   </br>
 
-<p>
-  </br><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=noorish100&show_icons=true&locale=en&layout=compact"  /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=noorish100&show_icons=true&locale=en&layout=compact"  /></p>
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
