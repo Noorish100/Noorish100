@@ -32,7 +32,7 @@
 - ⚡ Fact :**It's never late to get started 🫀:**
 
 </br>
-<h3 align="center">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="center">
 
   
@@ -51,7 +51,7 @@
   </br>
 
 <p>
-  </br><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noorish100&show_icons=true&locale=en&layout=compact"  /></p>
+  </br><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=noorish100&show_icons=true&locale=en&layout=compact"  /></p>
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
