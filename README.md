@@ -35,11 +35,11 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 
-  <div align="center>
+  <palign="center>
  [![Linkedin Badge](https://img.shields.io/badge/-noorish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/noorish-nauman//)](https://www.linkedin.com/in/noorish-nauman/)  [![Gmail Badge](https://img.shields.io/badge/-mdnoorishnauman@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdnoorishnauman@gmail.com)](mailto:mdnoorishnauman@gmail.com)
-  </div>
+  </p>
 <br>
-<br>
+
 </br>
 
 
@@ -50,9 +50,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noorish100&show_icons=true&locale=en&layout=compact"  /></p>
 
-<br>
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+</br>
 
 
 <p align="center">
