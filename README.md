@@ -19,7 +19,7 @@
 
 - 🌱 Learning **Full-Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/danish4git?tab=repositories](https://github.com/danish4git?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/noorish100?tab=repositories](https://github.com/noorish100?tab=repositories)
 
 - 💬 Ask me about **Java**
 
