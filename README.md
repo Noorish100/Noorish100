@@ -15,9 +15,9 @@
 
 
 
-- 🔭 I’m currently student at Masai School
+- 🔭 I’m currently employee at finvolv
 
-- 🌱 Learning **Full-Stack Web Development**
+- 🌱 Learned **Full-Stack Web Development** from Masai School
 
 - 👨‍💻 All of my projects are available at [https://github.com/noorish100?tab=repositories](https://github.com/noorish100?tab=repositories)
 
