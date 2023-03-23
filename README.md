@@ -15,9 +15,9 @@
 
 
 
-- 🔭 I’m currently employee at finvolv
+- 🔭 I was ex employee at Kuliza technology Pvt Ltd (finvolv)
 
-- 🌱 Learned **Full-Stack Web Development** from Masai School
+- 🌱 Learned **Java Backend Developer** from Masai School
 
 - 👨‍💻 All of my projects are available at [https://github.com/noorish100?tab=repositories](https://github.com/noorish100?tab=repositories)
 
