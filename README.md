@@ -15,7 +15,7 @@
 
 
 
-- 🔭 I was ex employee at Kuliza technology Pvt Ltd (finvolv)
+- 🔭 I was an ex employee at Kuliza technology Pvt Ltd (finvolv)
 
 - 🌱 Learned **Java Backend Developer** from Masai School
 
