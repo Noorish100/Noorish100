@@ -15,7 +15,7 @@
 
 
 
-- 🔭 I was an ex employee at Kuliza technology Pvt Ltd (finvolv)
+- 🔭 Working at Imginnovate(SE2)
 
 - 🌱 **Fullstack Developer**
 
