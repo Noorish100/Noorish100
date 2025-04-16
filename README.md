@@ -17,19 +17,19 @@
 
 - 🔭 I was an ex employee at Kuliza technology Pvt Ltd (finvolv)
 
-- 🌱 Learned **Java Backend Developer** from Masai School
+- 🌱 **Fullstack Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/noorish100?tab=repositories](https://github.com/noorish100?tab=repositories)
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Backend**
 
 - 📫 How to reach me **mdnoorishnauman@gmail.com**
 
-- ⚡ Fun fact **I watch the funny videos often.**
+- ⚡ Fun fact **watching funny videos.**
 
 - 🎯 Hobbies :**coding📕 | planting 🪴 | Physical fitness👊**
 
-- ⚡ Fact :**It's never late to get started 🫀:**
+- ⚡ Fact :**To achieve something you have to come out from your comfort zone 🫀:**
 
 </br>
 <h3 align="left">Connect with me:</h3>
